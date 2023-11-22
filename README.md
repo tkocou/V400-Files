@@ -1,2 +1,4 @@
 # V400-Files
-Some support files used in calibrating a FLSun V400
+The FLSun V400 3D printer with a new load of Klipper software requires some support files.
+
+Instructions are posted to the wiki.
